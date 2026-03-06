@@ -6,7 +6,7 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.giannihonda.course.entities.enums.Product;
+import com.giannihonda.course.entities.Product;
 import com.giannihonda.course.repositories.ProductRepository;
 
 @Service
